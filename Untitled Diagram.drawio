@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" modified="2023-08-23T00:16:50.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="U764c0OAuOLY_6X_jFAB" version="21.6.9" type="github">
+  <diagram name="Page-1" id="6OGTc6pJBvb_cPCi14AY">
+    <mxGraphModel dx="1575" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bMYbAWSwQe_PAc0a7nWA-1" value="jiangren.com.au" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="580" y="250" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYbAWSwQe_PAc0a7nWA-3" value="Cloudfront CDN&lt;br&gt;(Additional costs/Updates)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYbAWSwQe_PAc0a7nWA-8" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;font color=&quot;#331a00&quot;&gt;High Speed/&lt;/font&gt;&lt;/p&gt;&lt;font color=&quot;#331a00&quot;&gt;availability&lt;/font&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;endWidth=37.89473684210527;endSize=7.2631578947368425;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="bMYbAWSwQe_PAc0a7nWA-1">
+          <mxGeometry x="-0.3741" y="5" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469.99769093348175" y="329.9962429070186" as="sourcePoint" />
+            <mxPoint x="568.91" y="308.94" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMYbAWSwQe_PAc0a7nWA-9" value="DNS Route53 hosted zone&lt;br&gt;jiangrendevops.com" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYbAWSwQe_PAc0a7nWA-16" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;julia.jiangrendevops.com" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMYbAWSwQe_PAc0a7nWA-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=24.210526315789476;endSize=8.789473684210526;width=14.73684210526316;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="260" as="sourcePoint" />
+            <mxPoint x="200" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMYbAWSwQe_PAc0a7nWA-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="180" as="sourcePoint" />
+            <mxPoint x="360" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
